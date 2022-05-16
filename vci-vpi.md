@@ -16,3 +16,4 @@ VPI مخفف عبارت "Virtual Path Identifier" به معنای "مشخص کن
     <p>
 دو مقدار VPI و VCI در کنار یکدیگر، مسیر نهایی را مشخص می‌کنند. این دو مقدار باید توسط ISP به کاربر اطلاع داده شوند زیرا بدون فهمیدن این مقادیر، داده‌های ما عملاً به جایی غیر از ISP انتقال داده خواهند شد.
     </p>
+  <img src="https://persian-it.com/wp-content/uploads/2022/05/mohammad-reza-esmaeilian.jpg " alt=" motherboard">
